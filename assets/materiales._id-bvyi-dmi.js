@@ -1,0 +1,1 @@
+import{j as t,L as e}from"./index-CAaayfgd.js";const n=()=>t.jsxs("div",{className:"mx-auto max-w-3xl px-5 py-24 text-center",children:[t.jsx("h1",{className:"font-display text-4xl",children:"Material no encontrado"}),t.jsx(e,{to:"/materiales",className:"mt-6 inline-block text-terracota underline",children:"Volver a materiales"})]});export{n as notFoundComponent};

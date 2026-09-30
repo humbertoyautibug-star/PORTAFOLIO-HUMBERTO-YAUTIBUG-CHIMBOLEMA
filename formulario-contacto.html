@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <title>Formulario de contacto</title>
+</head>
+<body>
+  <!-- Solo existe para que Netlify registre el formulario en el build. -->
+  <form name="contacto" method="POST" data-netlify="true" netlify-honeypot="bot-field" hidden>
+    <input type="hidden" name="form-name" value="contacto" />
+    <input type="text" name="nombre" />
+    <input type="email" name="correo" />
+    <select name="perfil">
+      <option value="Docente">Docente</option>
+    </select>
+    <textarea name="mensaje"></textarea>
+    <input name="bot-field" />
+  </form>
+</body>
+</html>
