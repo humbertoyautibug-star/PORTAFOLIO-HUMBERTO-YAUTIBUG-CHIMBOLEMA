@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://snazzy-moxie-95c41e.netlify.app/</loc></url>
-  <url><loc>https://snazzy-moxie-95c41e.netlify.app/experiencia</loc></url>
-  <url><loc>https://snazzy-moxie-95c41e.netlify.app/materiales</loc></url>
-  <url><loc>https://snazzy-moxie-95c41e.netlify.app/evidencias</loc></url>
-  <url><loc>https://snazzy-moxie-95c41e.netlify.app/autoevaluacion</loc></url>
-  <url><loc>https://snazzy-moxie-95c41e.netlify.app/contacto</loc></url>
-  <url><loc>https://snazzy-moxie-95c41e.netlify.app/materiales/ecosistemas-locales</loc></url>
-  <url><loc>https://snazzy-moxie-95c41e.netlify.app/materiales/guardianes-agua</loc></url>
-  <url><loc>https://snazzy-moxie-95c41e.netlify.app/materiales/rubrica-proyectos</loc></url>
-  <url><loc>https://snazzy-moxie-95c41e.netlify.app/materiales/robotica-sensores</loc></url>
-  <url><loc>https://snazzy-moxie-95c41e.netlify.app/materiales/debate-energia</loc></url>
-  <url><loc>https://snazzy-moxie-95c41e.netlify.app/materiales/club-lectura-cientifica</loc></url>
+<url><loc>https://snazzy-moxie-95c41e.netlify.app/</loc></url>
+<url><loc>https://snazzy-moxie-95c41e.netlify.app/filosofia.html</loc></url>
+<url><loc>https://snazzy-moxie-95c41e.netlify.app/experiencia.html</loc></url>
+<url><loc>https://snazzy-moxie-95c41e.netlify.app/evidencias.html</loc></url>
+<url><loc>https://snazzy-moxie-95c41e.netlify.app/materiales.html</loc></url>
+<url><loc>https://snazzy-moxie-95c41e.netlify.app/autoevaluacion.html</loc></url>
+<url><loc>https://snazzy-moxie-95c41e.netlify.app/contacto.html</loc></url>
 </urlset>
